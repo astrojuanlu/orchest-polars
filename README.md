@@ -4,5 +4,5 @@
 
 Experiments with Polars in Orchest.
 
-![Pipeline visualization](https://pviz.orchest.io/?pipeline=https://github.com/astrojuanlu/orchest-polars/blob/main/main.orchest)
+![Pipeline visualization](https://pviz.orchest.io/?pipeline=https://github.com/astrojuanlu/orchest-polars/blob/master/main.orchest)
 
