@@ -1,0 +1,53 @@
+{
+    "name": "Main",
+    "parameters": {},
+    "services": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {
+        "745487a8-d3bd-4472-b9d7-5b2e11465915": {
+            "environment": "3da6aa3c-0b6d-4d37-a8ab-a2e21c63ee21",
+            "file_path": "main.ipynb",
+            "incoming_connections": [
+                "bc427b77-b466-476d-a527-1a00b1d6553d"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    283.5,
+                    80
+                ]
+            },
+            "parameters": {},
+            "title": "Main",
+            "uuid": "745487a8-d3bd-4472-b9d7-5b2e11465915"
+        },
+        "bc427b77-b466-476d-a527-1a00b1d6553d": {
+            "environment": "4c68d3ef-92d6-4415-aa29-45d989c72f76",
+            "file_path": "fetch-data.sh",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Data fetch",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    20,
+                    80.00000000000001
+                ]
+            },
+            "parameters": {},
+            "title": "Fetch data",
+            "uuid": "bc427b77-b466-476d-a527-1a00b1d6553d"
+        }
+    },
+    "uuid": "d1d7dc91-db19-4da2-ad1d-dc7622aebb80",
+    "version": "1.0.0"
+}

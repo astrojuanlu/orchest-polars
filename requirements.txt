@@ -1,0 +1,7 @@
+kaggle
+polars==0.13.38
+
+# Since fsspec is installed, extra dependencies are needed
+# see https://github.com/pola-rs/polars/issues/1200#issuecomment-903773339
+aiohttp
+requests

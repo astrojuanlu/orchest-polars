@@ -1,0 +1,1 @@
+{"uuid": "4c68d3ef-92d6-4415-aa29-45d989c72f76", "gpu_support": false, "language": "python", "base_image": "orchest/base-kernel-py", "name": "Data fetch"}
